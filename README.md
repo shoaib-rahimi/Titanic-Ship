@@ -1,2 +1,6 @@
 # Titanic-Ship
-  we want to predict who will be rescued on the Titanic.
+We want to predict who will be saved on the Titanic using a logistic regression model.
+ 
+
+
+
